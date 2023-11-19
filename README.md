@@ -1,5 +1,5 @@
-# mpv
-My personal mpv config files.
+# Config Files
+My personal configuration files/dotfiles.
 
 # Credits
 ## Vim
